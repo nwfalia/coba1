@@ -5,3 +5,4 @@ Daftar Belanja
 4. Shampo
 5. Parfum
 6. sunlight
+7. sabun
